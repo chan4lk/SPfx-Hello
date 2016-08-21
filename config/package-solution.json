@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-world-client-side-solution",
+    "id": "8cede014-5a2e-46b6-8dfa-188ac935a428",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "hello-world.spapp"
+  }
+}
