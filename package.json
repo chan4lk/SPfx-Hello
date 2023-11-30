@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@microsoft/sp-client-base": "~0.1.12",
-    "@microsoft/sp-client-preview": "~0.1.12"
+    "@microsoft/sp-client-preview": "~1.0.0"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "~0.4.32",
